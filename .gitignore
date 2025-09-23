@@ -1,0 +1,7 @@
+models/
+venv/
+Wan2.2/
+__pycache__/
+*.mp4
+*.png
+*.jpg
