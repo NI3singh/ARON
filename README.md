@@ -28,7 +28,7 @@ The core workflow is designed to mimic a real production studio:
 | --- | --- |
 | ![Storyboard UI](./assets/storyboard_page.png) | ![Image Generator UI](./assets/image_page.png) |
 | **Step 3: Video Clip Generation** | **Final Output Example** |
-| ![Video Generator UI](./assets/video_page.png) | ![Final Output](https://github.com/user-attachments/assets/2c058ef7-6b7d-4b2e-9603-b1762692e8b4) |
+| ![Video Generator UI](./assets/video_page.png) | ![Final Output]([https://github.com/user-attachments/assets/2c058ef7-6b7d-4b2e-9603-b1762692e8b4](https://github-production-user-asset-6210df.s3.amazonaws.com/115877777/493201303-2c058ef7-6b7d-4b2e-9603-b1762692e8b4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250924T072701Z&X-Amz-Expires=300&X-Amz-Signature=bcca5636bf2f43b6ab125d80d9a8d46362091b9148a3c6e72975d3583445a2ee&X-Amz-SignedHeaders=host)) |
 
 **How to add screenshots:**
 
