@@ -191,6 +191,6 @@ If you'd like help setting this up for ROCm, creating `.env`/`config.sample.yaml
 ---
 <div align="center">
 
-*Generated with ❤️*
+**Generated with ❤️**
 
 </div>
