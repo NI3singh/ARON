@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/d3a35c22-4c23-457c-ac99-63650d6e2edd
 # 🎬 AI Video Creator Pipeline
 
 This project is a prototype of an end-to-end pipeline that generates short, multi-scene videos from a single text prompt. It leverages a series of state-of-the-art, open-source AI models, each specialized for a different part of the creative process, all wrapped in a simple, user-friendly web interface.
