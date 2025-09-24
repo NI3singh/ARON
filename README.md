@@ -30,13 +30,6 @@ The core workflow is designed to mimic a real production studio:
 | **Step 3: Video Clip Generation** | **Final Output Example** |
 | ![Video Generator UI](./assets/video_page.png) | [![Watch the demo](https://img.youtube.com/vi/fK2iA8LlV88/hqdefault.jpg)](https://youtu.be/fK2iA8LlV88) |
 
-**How to add screenshots:**
-
-1. Create a `docs/` folder in the project root.  
-2. Save your screenshots as `screenshot1.png`, `screenshot2.png`, etc.  
-3. Commit & push the `docs/` folder to the repo.  
-4. Update the image paths above if you use different filenames.
-
 ---
 
 ## 🛠️ Technology Stack
@@ -193,19 +186,11 @@ ai-video-creator/
 └─ README.md
 ```
 
----
-
-## License & Credits
-
-Add your preferred license file (e.g., `LICENSE`) and include credits for any models or third-party code you re-use. Many models are released under different terms — check each model's license before redistribution.
-
----
-
 ## Contact
 
-If you'd like help setting this up for ROCm, creating `.env`/`config.sample.yaml`, or automating downloads with scripts, open an issue or reach out to `you@example.com` (replace with your contact).
+If you'd like help setting this up for ROCm, creating `.env`/`config.sample.yaml`, or automating downloads with scripts, open an issue or reach out to `ni3.singh.r@gmail.com` (replace with your contact).
 
 ---
 
-*Generated with ❤️ — paste this `README.md` into your repo and edit the placeholders (model names, repo URL, contact) as needed.*
+*Generated with ❤️*
 
