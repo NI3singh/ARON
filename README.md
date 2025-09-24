@@ -189,6 +189,8 @@ ai-video-creator/
 If you'd like help setting this up for ROCm, creating `.env`/`config.sample.yaml`, or automating downloads with scripts, open an issue or reach out to `ni3.singh.r@gmail.com` (replace with your contact).
 
 ---
+<div align="center">
 
 *Generated with ❤️*
 
+</div>
