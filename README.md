@@ -27,7 +27,7 @@ The core workflow is designed to mimic a real production studio:
 | --- | --- |
 | ![Storyboard UI](./assets/storyboard_page.png) | ![Image Generator UI](./assets/image_page.png) |
 | **Step 3: Video Clip Generation** | **Final Output Example** |
-| ![Video Generator UI](./assets/video_page.png) |
+| ![Video Generator UI](./assets/video_page.png) | ![Final Output](./assets/generated_video_1.mp4) |
 
 **How to add screenshots:**
 
