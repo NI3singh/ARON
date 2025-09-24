@@ -22,8 +22,6 @@ The core workflow is designed to mimic a real production studio:
 
 ## 🖼️ Screenshots
 
-> Replace the placeholders below with your screenshots inside `./docs/` and update the markdown links.
-
 | **Step 1: Storyboard Generation** | **Step 2: Image Generation** |
 | --- | --- |
 | ![Storyboard UI](./assets/storyboard_page.png) | ![Image Generator UI](./assets/image_page.png) |
