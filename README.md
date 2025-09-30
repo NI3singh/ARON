@@ -131,59 +131,6 @@ Outputs are saved to `./outputs/` with a timestamped folder for each run.
 
 ---
 
-## 🗺️ Roadmap
-
-This project is a prototype with many future improvements planned:
-
-- [ ] **Video Stitching:** Combine generated clips into a single MP4.  
-- [ ] **Audio Generation:** Add TTS voiceover generation for scenes.  
-- [ ] **Background Music:** Integrate music generation or royalty-free music templates.  
-- [ ] **Improved Error Handling:** Better model failure handling and user feedback.  
-- [ ] **Asset Management:** Re-usable prompts, templates, and image libraries.  
-- [ ] **User Accounts & Projects:** Save projects, history, and exports.  
-- [ ] **Performance Optimizations:** Mixed precision, attention slicing, tiled generation, and model serving optimizations for ROCm.  
-- [ ] **Export Presets:** Provide web/social/high-quality export presets.
-
----
-
-## Contributing
-
-Contributions are welcome! Suggested guidelines:
-
-1. Fork the repo and create a feature branch.  
-2. Write tests for new functionality where applicable.  
-3. Open a PR with a clear description of changes.  
-
-If you add new models or major changes, please update this README and the `requirements.txt` accordingly.
-
----
-
-## Troubleshooting
-
-- **OOM Errors:** Reduce image resolution or batch sizes. Consider swapping to a smaller model or using mixed precision.  
-- **ROCm Issues:** Ensure your ROCm/PyTorch version is compatible with your GPU and OS (Ubuntu 22.04+ is recommended for recent ROCm).  
-- **Wan2.2 Build Failures:** Check system dependencies (FFmpeg, gcc, libsndfile). Consult the Wan2.2 repo for platform-specific instructions.
-
-If you still hit problems, open an issue with logs and environment details (OS, Python, PyTorch/ROCm versions, GPU model).
-
----
-
-## Files & Folders (suggested)
-
-```
-ai-video-creator/
-├─ app.py
-├─ requirements.txt
-├─ download_llm.py
-├─ download_image_model.py
-├─ models/        # place model directories here
-├─ Wan2.2/        # optional submodule or local folder for Wan2.2
-├─ outputs/       # generated images/videos go here
-├─ docs/          # screenshots and documentation images
-├─ config/        # yaml/json configs and sample .env
-└─ README.md
-```
-
 ## Contact
 
 If you'd like help setting this up for ROCm, creating `.env`/`config.sample.yaml`, or automating downloads with scripts, open an issue or reach out to `ni3.singh.r@gmail.com` (replace with your contact).
